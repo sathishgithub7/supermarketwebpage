@@ -1,0 +1,31 @@
+form{
+    
+    padding: 50px 580px;
+ border-style: solid ;
+ 
+ background-color: rgb(192, 233, 238);
+ 
+ border-radius:  10px;
+ font-family: 'Times New Roman', Times, serif;
+    
+}
+input[type=text],[type=password],[type=number],[type=DOB]{
+    box-sizing: border-box;
+    box-shadow: 10px 8px 8px;
+    
+    
+}
+input[type=text],[type=password],[type=number],[type=DOB]:hover{
+    box-shadow: 0 0 0 0 30px;
+}
+button{
+    background-color:green;
+    color:white;
+    border-radius: 50px;
+    
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 2px 2px;
+    background-color: blue;
+}

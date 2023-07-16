@@ -1,0 +1,32 @@
+h1{
+    float:right;
+    padding-right: 300px;
+    padding-top: 100px;
+
+    
+}
+img{
+    width: 500px;
+    padding: 50px;
+
+}
+*{
+    background-color: rgb(177, 247, 177);
+}
+
+h5{
+    float:right;
+}
+h6{
+    float: left;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    
+}
+fotter{
+    background-color: black;
+    color: white;
+
+}

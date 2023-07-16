@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(53, 219, 117);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+
+}
+.container h1{
+    text-align: center;
+}
+.container{
+    border: 2px solid black;
+    width: 400px;
+    background-color: aliceblue;
+    
+    margin-top: 100px;
+    margin-left: 430px;
+    padding: 30px;
+    box-shadow: 0 0 5px 5px black;
+}
+.form{
+    padding: 50px;
+    
+}
+.form-group{
+    padding: 20px;
+}
+button{
+    padding: 10px;
+    color: white;
+    width: 100%;
+    background-color:green;
+    border:none;
+    border-radius: 10px;
+}
+.form-control{
+    padding: 7px;
+    border-radius: 5px;
+    width: 70%;
+}
+button:hover{
+    box-shadow: 0 0 5px 5px black;
+}
+
